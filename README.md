@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Prashant Chawla
-- 👀 I’m interested in C, C++, Nodejs, Java, REACT, VBA, Blockchain
+- 👀 I’m interested in C, C++, Nodejs, Java, REACT and Blockchain
 - :mechanical_arm: I'm proficient in mySQL, Nodejs and VBA
 - 🌱 I’m currently learning REACT
 - 💞️ I’m looking to collaborate on REACT, Nodejs and JavaScript projects
