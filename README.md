@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on REACT, Nodejs and JavaScript projects
 - 📫 How to reach me: Connect with me on 
   - [linkedin](https://www.linkedin.com/in/prashant-chawla/)
-  - [Twitter](https://twitter.com/pchawlaji)
+  - [Twitter](https://www.twitter.com/pchawlaji)
 
 <!---
 pchawlaji/pchawlaji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
